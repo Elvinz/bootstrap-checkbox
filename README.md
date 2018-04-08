@@ -1,4 +1,4 @@
-<p align="center"><img src="logo/vertical.png" alt="bootstrap-checkbox" height="200px"></p>
+<p align="center"><img src="logo/logo.svg" alt="bootstrap-checkbox" height="200"></p>
 
 # [Bootstrap-checkbox](https://vsn4ik.github.io/bootstrap-checkbox/)
 
@@ -16,7 +16,6 @@ Several quick start options are available:
 * Clone the repo: `git clone https://github.com/vsn4ik/bootstrap-checkbox.git`
 * Install with [npm](https://www.npmjs.com): `npm install bootstrap-checkbox`
 * Install with [yarn](https://yarnpkg.com): `yarn add bootstrap-checkbox`
-* Install with [Composer](https://getcomposer.org): `composer require vsn4ik/bootstrap-checkbox "dev-master"` (deprecated on v.1.4.1)
 
 ### What's included
 
